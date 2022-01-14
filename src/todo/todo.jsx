@@ -5,7 +5,7 @@ import PageHeader from '../template/pageHeader'
 import TodoForm from './todoForm'
 import TodoList from './todoList'
 
-const URL = `http://${process.env.REACT_APP_API_URL}/api/todos`
+const URL = `${process.env.REACT_APP_API_URL}/api/todos`
 
 export default class Todo extends Component {
     constructor(props) {
