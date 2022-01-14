@@ -1,4 +1,4 @@
-Teste de uma app em React de um Todo List
+Teste de uma app em React + Redux de um Todo List
 
 Link para a api publicada no heroku: https://todo-app-api-test.herokuapp.com/api/todos
 
